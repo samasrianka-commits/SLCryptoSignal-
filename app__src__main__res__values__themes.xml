@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SLCrypto" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF070B1A</item>
+        <item name="android:statusBarColor">#FF0E1530</item>
+        <item name="android:navigationBarColor">#FF000000</item>
+    </style>
+</resources>
